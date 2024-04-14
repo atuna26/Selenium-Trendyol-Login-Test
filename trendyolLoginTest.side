@@ -33,7 +33,7 @@
         ["xpath=//div[@id='login-register']/div[3]/div/form/div/input", "xpath:idRelative"],
         ["xpath=//form/div/input", "xpath:position"]
       ],
-      "value": "lisecumbus@gmail.com"
+      "value": "testmail@testmail.com"
     }, {
       "id": "85eeb883-dcee-4ae5-b5b9-9cea1bf4ccf4",
       "comment": "",
@@ -47,7 +47,7 @@
         ["xpath=//div[@id='login-register']/div[3]/div/form/div[2]/div/div/input", "xpath:idRelative"],
         ["xpath=//div[2]/div/div/input", "xpath:position"]
       ],
-      "value": "kralanut29522"
+      "value": "testpasswordtestpassword123"
     }, {
       "id": "00b19194-225a-4282-aa5d-ada9c6eff837",
       "comment": "",
